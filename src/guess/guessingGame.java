@@ -1,4 +1,4 @@
-package myapp;
+package guess;
 
 // imports
 import java.io.Console;
